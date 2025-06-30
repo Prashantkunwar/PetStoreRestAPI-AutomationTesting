@@ -1,0 +1,233 @@
+22:41:37.360 [main] INFO  api.tests.UserTests.testPostUser(UserTests.java:41)oggger - **************Creating User******************
+22:41:38.991 [main] INFO  api.tests.UserTests.testPostUser(UserTests.java:45)oggger - **************User is created ******************
+22:41:39.002 [main] INFO  api.tests.UserTests.testGetUser(UserTests.java:52)oggger - **************Reading User Data ******************
+22:41:39.522 [main] INFO  api.tests.UserTests.testGetUser(UserTests.java:57)oggger - **************User Info is Displayed******************
+22:41:42.538 [main] INFO  api.tests.UserTests.testUpdateUser(UserTests.java:64)oggger - **************Updating User Credentials******************
+22:41:45.697 [main] INFO  api.tests.UserTests.testUpdateUser(UserTests.java:75)oggger - **************User is Updated******************
+22:41:45.697 [main] INFO  api.tests.UserTests.testUpdateUser(UserTests.java:77)oggger - **************Reading User Data After Update is completed******************
+22:41:45.884 [main] INFO  api.tests.UserTests.testUpdateUser(UserTests.java:87)oggger - **************Reading User Completed Successfully******************
+22:41:45.887 [main] INFO  api.tests.UserTests.testDeleteUser(UserTests.java:92)oggger - **************Deleting User******************
+22:41:46.036 [main] INFO  api.tests.UserTests.testDeleteUser(UserTests.java:96)oggger - **************User Successfully Deleted******************
+23:28:39.108 [main] INFO  api.tests.UserTests2.testPostUser(UserTests2.java:42)oggger - **************Creating User******************
+23:28:40.564 [main] INFO  api.tests.UserTests2.testPostUser(UserTests2.java:46)oggger - **************User is created ******************
+23:28:40.569 [main] INFO  api.tests.UserTests2.testGetUser(UserTests2.java:53)oggger - **************Reading User Data ******************
+23:28:40.727 [main] INFO  api.tests.UserTests2.testUpdateUser(UserTests2.java:65)oggger - **************Updating User Credentials******************
+23:28:43.867 [main] INFO  api.tests.UserTests2.testUpdateUser(UserTests2.java:76)oggger - **************User is Updated******************
+23:28:43.867 [main] INFO  api.tests.UserTests2.testUpdateUser(UserTests2.java:78)oggger - **************Reading User Data After Update is completed******************
+23:28:44.373 [main] INFO  api.tests.UserTests2.testUpdateUser(UserTests2.java:88)oggger - **************Reading User Completed Successfully******************
+23:28:44.375 [main] INFO  api.tests.UserTests2.testDeleteUser(UserTests2.java:93)oggger - **************Deleting User******************
+23:28:44.515 [main] INFO  api.tests.UserTests2.testDeleteUser(UserTests2.java:97)oggger - **************User Successfully Deleted******************
+10:18:35.037 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:25:54.526 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:25:56.662 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:43)oggger - ********* Order Creation Completed ******************
+10:27:04.870 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:27:07.120 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:43)oggger - ********* Order Creation Completed ******************
+10:27:07.131 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:50)oggger - *********Getting Order ******************
+10:27:07.683 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:61)oggger - *********Getting Order Inventory ******************
+10:27:08.272 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:66)oggger - ********* Order Invntory Retrived ******************
+10:27:08.278 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:71)oggger - *********Deleting Order ******************
+10:27:41.703 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:27:43.889 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:43)oggger - ********* Order Creation Completed ******************
+10:27:43.899 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:50)oggger - *********Getting Order ******************
+10:27:44.444 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:61)oggger - *********Getting Order Inventory ******************
+10:27:44.968 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:66)oggger - ********* Order Invntory Retrived ******************
+10:27:44.975 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:71)oggger - *********Deleting Order ******************
+10:30:25.375 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:30:28.511 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:43)oggger - ********* Order Creation Completed ******************
+10:30:28.520 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:50)oggger - *********Getting Order ******************
+10:30:29.100 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:61)oggger - *********Getting Order Inventory ******************
+10:30:29.556 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:66)oggger - ********* Order Invntory Retrived ******************
+10:30:29.561 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:71)oggger - *********Deleting Order ******************
+10:31:31.522 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:31:33.670 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:43)oggger - ********* Order Creation Completed ******************
+10:31:33.682 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:50)oggger - *********Getting Order ******************
+10:31:34.705 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:61)oggger - *********Getting Order Inventory ******************
+10:31:35.266 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:66)oggger - ********* Order Invntory Retrived ******************
+10:31:35.270 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:71)oggger - *********Deleting Order ******************
+10:34:13.651 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:34:15.765 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:43)oggger - ********* Order Creation Completed ******************
+10:34:15.778 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:50)oggger - *********Getting Order ******************
+10:34:16.886 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:64)oggger - *********Getting Order Inventory ******************
+10:34:17.466 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:69)oggger - ********* Order Invntory Retrived ******************
+10:34:17.471 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:74)oggger - *********Deleting Order ******************
+10:37:59.359 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:38:01.570 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:43)oggger - ********* Order Creation Completed ******************
+10:38:01.582 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:50)oggger - *********Getting Order ******************
+10:38:02.662 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:64)oggger - *********Getting Order Inventory ******************
+10:38:03.254 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:69)oggger - ********* Order Invntory Retrived ******************
+10:38:03.259 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:74)oggger - *********Deleting Order ******************
+10:42:49.769 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:42:51.754 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:43)oggger - ********* Order Creation Completed ******************
+10:42:51.766 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:49)oggger - *********Getting Order ******************
+10:42:52.311 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:74)oggger - *********Getting Order Inventory ******************
+10:42:52.838 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:79)oggger - ********* Order Invntory Retrived ******************
+10:42:52.842 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:84)oggger - *********Deleting Order ******************
+10:44:07.106 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:44:09.547 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:43)oggger - Order created with ID: 1426963578
+10:44:09.550 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:45)oggger - ********* Order Creation Completed ******************
+10:44:09.557 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:51)oggger - *********Getting Order ******************
+10:44:10.035 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:69)oggger - *********Order Creation Retrieved ******************
+10:44:10.041 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - *********Getting Order Inventory ******************
+10:44:10.557 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:81)oggger - ********* Order Invntory Retrived ******************
+10:44:10.561 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:86)oggger - *********Deleting Order ******************
+10:44:11.044 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:91)oggger - ********* Order Deletion Complete ******************
+10:49:36.457 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:49:38.705 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:45)oggger - ********* Order Creation Completed ******************
+10:49:38.716 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:51)oggger - *********Getting Order ******************
+10:49:39.142 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:69)oggger - *********Getting Order Inventory ******************
+10:49:39.676 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:74)oggger - ********* Order Invntory Retrived ******************
+10:49:39.680 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:79)oggger - *********Deleting Order ******************
+10:51:56.524 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:51:59.070 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+10:51:59.078 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+10:51:59.631 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+10:52:00.163 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+10:52:00.167 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+10:52:48.665 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:52:51.162 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+10:52:51.169 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+10:52:51.750 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+10:52:52.276 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+10:52:52.279 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+10:56:52.692 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:56:55.196 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+10:56:55.203 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+10:56:55.793 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+10:56:56.301 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+10:56:56.304 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+10:58:00.779 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:58:03.437 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+10:58:03.443 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+10:58:03.875 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:64)oggger - *********Order Creation Retrieved ******************
+10:58:03.879 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+10:58:04.398 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+10:58:04.402 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+10:58:04.777 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:86)oggger - ********* Order Deletion Complete ******************
+10:58:13.319 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:58:15.890 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+10:58:15.896 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+10:58:16.469 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:64)oggger - *********Order Creation Retrieved ******************
+10:58:16.472 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+10:58:16.996 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+10:58:17.000 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+10:58:30.214 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+10:58:32.879 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+10:58:32.888 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+10:58:33.468 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:64)oggger - *********Order Creation Retrieved ******************
+10:58:33.472 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+10:58:33.990 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+10:58:33.994 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+10:58:34.473 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:86)oggger - ********* Order Deletion Complete ******************
+10:59:19.865 [main] INFO  api.tests.UserTests2.testPostUser(UserTests2.java:42)oggger - **************Creating User******************
+10:59:21.962 [main] INFO  api.tests.UserTests2.testPostUser(UserTests2.java:46)oggger - **************User is created ******************
+10:59:21.969 [main] INFO  api.tests.UserTests2.testGetUser(UserTests2.java:53)oggger - **************Reading User Data ******************
+10:59:22.509 [main] INFO  api.tests.UserTests2.testUpdateUser(UserTests2.java:65)oggger - **************Updating User Credentials******************
+10:59:26.011 [main] INFO  api.tests.UserTests2.testUpdateUser(UserTests2.java:76)oggger - **************User is Updated******************
+10:59:26.012 [main] INFO  api.tests.UserTests2.testUpdateUser(UserTests2.java:78)oggger - **************Reading User Data After Update is completed******************
+10:59:27.092 [main] INFO  api.tests.UserTests2.testDeleteUser(UserTests2.java:93)oggger - **************Deleting User******************
+10:59:27.518 [main] INFO  api.tests.UserTests2.testDeleteUser(UserTests2.java:97)oggger - **************User Successfully Deleted******************
+13:08:21.355 [main] INFO  api.tests.UserTests2.testPostUser(UserTests2.java:42)oggger - **************Creating User******************
+13:08:23.753 [main] INFO  api.tests.UserTests2.testPostUser(UserTests2.java:46)oggger - **************User is created ******************
+13:08:23.760 [main] INFO  api.tests.UserTests2.testGetUser(UserTests2.java:53)oggger - **************Reading User Data ******************
+13:08:24.314 [main] INFO  api.tests.UserTests2.testUpdateUser(UserTests2.java:65)oggger - **************Updating User Credentials******************
+13:08:27.716 [main] INFO  api.tests.UserTests2.testUpdateUser(UserTests2.java:76)oggger - **************User is Updated******************
+13:08:27.716 [main] INFO  api.tests.UserTests2.testUpdateUser(UserTests2.java:78)oggger - **************Reading User Data After Update is completed******************
+13:08:28.409 [main] INFO  api.tests.UserTests2.testDeleteUser(UserTests2.java:93)oggger - **************Deleting User******************
+13:08:46.553 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+13:08:49.238 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+13:08:49.247 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+13:08:49.808 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+13:08:50.337 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+13:08:50.341 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+13:08:50.619 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:86)oggger - ********* Order Deletion Complete ******************
+13:08:58.157 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+13:09:00.347 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+13:09:00.353 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+13:09:00.534 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+13:09:00.694 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+13:09:00.696 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+13:09:07.651 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+13:09:10.010 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+13:09:10.018 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+13:09:10.197 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:64)oggger - *********Order Creation Retrieved ******************
+13:09:10.199 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+13:09:10.356 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+13:09:10.358 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+13:09:10.503 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:86)oggger - ********* Order Deletion Complete ******************
+13:16:11.396 [main] INFO  api.tests.UserTests.testPostUser(UserTests.java:41)oggger - **************Creating User******************
+13:16:12.878 [main] INFO  api.tests.UserTests.testPostUser(UserTests.java:45)oggger - **************User is created ******************
+13:16:12.888 [main] INFO  api.tests.UserTests.testGetUser(UserTests.java:52)oggger - **************Reading User Data ******************
+13:16:13.051 [main] INFO  api.tests.UserTests.testUpdateUser(UserTests.java:64)oggger - **************Updating User Credentials******************
+13:16:16.203 [main] INFO  api.tests.UserTests.testUpdateUser(UserTests.java:75)oggger - **************User is Updated******************
+13:16:16.204 [main] INFO  api.tests.UserTests.testUpdateUser(UserTests.java:77)oggger - **************Reading User Data After Update is completed******************
+13:16:16.761 [main] INFO  api.tests.UserTests.testUpdateUser(UserTests.java:87)oggger - **************Reading User Completed Successfully******************
+13:16:16.762 [main] INFO  api.tests.UserTests.testDeleteUser(UserTests.java:92)oggger - **************Deleting User******************
+13:16:16.904 [main] INFO  api.tests.UserTests.testDeleteUser(UserTests.java:96)oggger - **************User Successfully Deleted******************
+13:18:13.489 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+13:18:15.364 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+13:18:15.374 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+13:18:15.541 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+13:18:15.711 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+13:18:15.712 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+13:18:45.833 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+13:18:47.493 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+13:18:47.503 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+13:18:47.661 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+13:18:47.815 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+13:18:47.816 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+13:18:47.960 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:86)oggger - ********* Order Deletion Complete ******************
+13:19:00.169 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+13:19:01.808 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+13:19:01.818 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+13:19:01.988 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:64)oggger - *********Order Creation Retrieved ******************
+13:19:01.989 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+13:19:02.149 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+13:19:02.151 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+13:36:46.174 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+13:36:48.050 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+13:36:48.060 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+13:36:48.225 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:64)oggger - *********Order Creation Retrieved ******************
+13:36:48.228 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+13:36:48.384 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+13:36:48.386 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+13:37:44.255 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:38)oggger - *********Creating Order ******************
+13:37:45.955 [main] INFO  api.tests.TC230_StoreTests.testPostOrder(TC230_StoreTests.java:47)oggger - ********* Order Creation Completed ******************
+13:37:45.965 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:53)oggger - *********Getting Order ******************
+13:37:46.128 [main] INFO  api.tests.TC230_StoreTests.testGetOrder(TC230_StoreTests.java:64)oggger - *********Order Creation Retrieved ******************
+13:37:46.129 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:71)oggger - *********Getting Order Inventory ******************
+13:37:46.282 [main] INFO  api.tests.TC230_StoreTests.testGetInventory(TC230_StoreTests.java:76)oggger - ********* Order Invntory Retrived ******************
+13:37:46.284 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:81)oggger - *********Deleting Order ******************
+13:37:46.422 [main] INFO  api.tests.TC230_StoreTests.testDeleteOrder(TC230_StoreTests.java:86)oggger - ********* Order Deletion Complete ******************
+13:44:51.170 [main] INFO  api.tests.TC230_StoreTest.testPostOrder(TC230_StoreTest.java:38)oggger - *********Creating Order ******************
+13:44:52.980 [main] INFO  api.tests.TC230_StoreTest.testPostOrder(TC230_StoreTest.java:47)oggger - ********* Order Creation Completed ******************
+13:44:52.991 [main] INFO  api.tests.TC230_StoreTest.testGetOrder(TC230_StoreTest.java:53)oggger - *********Getting Order ******************
+13:44:53.152 [main] INFO  api.tests.TC230_StoreTest.testGetInventory(TC230_StoreTest.java:71)oggger - *********Getting Order Inventory ******************
+13:44:53.303 [main] INFO  api.tests.TC230_StoreTest.testGetInventory(TC230_StoreTest.java:76)oggger - ********* Order Invntory Retrived ******************
+13:44:53.304 [main] INFO  api.tests.TC230_StoreTest.testDeleteOrder(TC230_StoreTest.java:81)oggger - *********Deleting Order ******************
+13:46:57.835 [main] INFO  api.tests.TC230_StoreTest.testPostOrder(TC230_StoreTest.java:38)oggger - *********Creating Order ******************
+13:46:59.535 [main] INFO  api.tests.TC230_StoreTest.testPostOrder(TC230_StoreTest.java:47)oggger - ********* Order Creation Completed ******************
+13:46:59.547 [main] INFO  api.tests.TC230_StoreTest.testGetOrder(TC230_StoreTest.java:53)oggger - *********Getting Order ******************
+13:46:59.721 [main] INFO  api.tests.TC230_StoreTest.testGetInventory(TC230_StoreTest.java:71)oggger - *********Getting Order Inventory ******************
+13:46:59.872 [main] INFO  api.tests.TC230_StoreTest.testGetInventory(TC230_StoreTest.java:76)oggger - ********* Order Invntory Retrived ******************
+13:46:59.873 [main] INFO  api.tests.TC230_StoreTest.testDeleteOrder(TC230_StoreTest.java:81)oggger - *********Deleting Order ******************
+13:48:18.674 [main] INFO  api.tests.TC230_StoreTest.testPostOrder(TC230_StoreTest.java:38)oggger - *********Creating Order ******************
+13:48:20.389 [main] INFO  api.tests.TC230_StoreTest.testPostOrder(TC230_StoreTest.java:47)oggger - ********* Order Creation Completed ******************
+13:48:20.401 [main] INFO  api.tests.TC230_StoreTest.testGetOrder(TC230_StoreTest.java:53)oggger - *********Getting Order ******************
+13:48:20.572 [main] INFO  api.tests.TC230_StoreTest.testGetOrder(TC230_StoreTest.java:64)oggger - *********Order Creation Retrieved ******************
+13:48:20.573 [main] INFO  api.tests.TC230_StoreTest.testGetInventory(TC230_StoreTest.java:71)oggger - *********Getting Order Inventory ******************
+13:48:20.736 [main] INFO  api.tests.TC230_StoreTest.testGetInventory(TC230_StoreTest.java:76)oggger - ********* Order Invntory Retrived ******************
+13:48:20.738 [main] INFO  api.tests.TC230_StoreTest.testDeleteOrder(TC230_StoreTest.java:81)oggger - *********Deleting Order ******************
+13:50:11.156 [main] INFO  api.tests.TC230_StoreTest.testPostOrder(TC230_StoreTest.java:38)oggger - *********Creating Order ******************
+13:50:12.964 [main] INFO  api.tests.TC230_StoreTest.testPostOrder(TC230_StoreTest.java:47)oggger - ********* Order Creation Completed ******************
+13:50:12.977 [main] INFO  api.tests.TC230_StoreTest.testGetOrder(TC230_StoreTest.java:53)oggger - *********Getting Order ******************
+13:50:13.136 [main] INFO  api.tests.TC230_StoreTest.testGetInventory(TC230_StoreTest.java:71)oggger - *********Getting Order Inventory ******************
+13:50:13.295 [main] INFO  api.tests.TC230_StoreTest.testGetInventory(TC230_StoreTest.java:76)oggger - ********* Order Invntory Retrived ******************
+13:50:13.296 [main] INFO  api.tests.TC230_StoreTest.testDeleteOrder(TC230_StoreTest.java:81)oggger - *********Deleting Order ******************
+13:50:13.439 [main] INFO  api.tests.TC230_StoreTest.testDeleteOrder(TC230_StoreTest.java:86)oggger - ********* Order Deletion Complete ******************
+16:31:25.987 [main] INFO  api.tests.TC230_StoreTest.testPostOrder(TC230_StoreTest.java:38)oggger - *********Creating Order ******************
+16:31:28.125 [main] INFO  api.tests.TC230_StoreTest.testPostOrder(TC230_StoreTest.java:47)oggger - ********* Order Creation Completed ******************
+16:31:28.139 [main] INFO  api.tests.TC230_StoreTest.testGetOrder(TC230_StoreTest.java:53)oggger - *********Getting Order ******************
+16:31:28.309 [main] INFO  api.tests.TC230_StoreTest.testGetInventory(TC230_StoreTest.java:71)oggger - *********Getting Order Inventory ******************
+16:31:28.479 [main] INFO  api.tests.TC230_StoreTest.testGetInventory(TC230_StoreTest.java:76)oggger - ********* Order Invntory Retrived ******************
+16:31:28.480 [main] INFO  api.tests.TC230_StoreTest.testDeleteOrder(TC230_StoreTest.java:81)oggger - *********Deleting Order ******************
+16:31:28.630 [main] INFO  api.tests.TC230_StoreTest.testDeleteOrder(TC230_StoreTest.java:86)oggger - ********* Order Deletion Complete ******************
